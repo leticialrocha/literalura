@@ -1,4 +1,4 @@
-##  LiterAlura - Catálogo de Livros  ♡₊˚ 🦢
+##  LiterAlura - Catálogo de Livros  ♡₊˚ 
 
 O **LiterAlura** é um desafio de programação que consiste em desenvolver um catálogo de livros integrando uma API externa (**Gutendex API**) com persistência em banco de dados relacional. O sistema permite realizar buscas, salvar informações e filtrar dados diretamente pelo terminal.
 
